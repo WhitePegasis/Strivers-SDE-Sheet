@@ -1,3 +1,7 @@
+// Problem Links:
+// https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#
+// https://www.codingninjas.com/codestudio/problems/799400?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+
 // Program to find minimum number of platforms
 // required on a railway station
 #include <bits/stdc++.h>
