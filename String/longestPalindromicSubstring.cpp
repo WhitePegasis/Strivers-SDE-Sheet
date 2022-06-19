@@ -1,3 +1,7 @@
+//Problem link: https://leetcode.com/problems/longest-palindromic-substring/
+//time complexity: O(N^2)
+//space complexity: O(1)
+
 #include<bits/stdc++.h>
 
 using namespace std;
